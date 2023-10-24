@@ -1,4 +1,4 @@
-## <img src="https://github.com/ecemgo/octoberfest-landing-page/assets/13468728/3ada9881-3013-49e4-9140-820877efb449" title="octoberfest" alt="octoberfest" width="40" height="40"/> Octoberfest Landing Page
+## <img src="https://github.com/ecemgo/octoberfest-landing-page/assets/13468728/9acff720-e20d-4335-812c-1c4f098d453d" title="octoberfest" alt="octoberfest" width="40" height="40"/> Octoberfest Landing Page
 
 #### The solutions with these tools:
 
@@ -12,7 +12,7 @@
 
 ### Screenshot
 
-[https://github.com/ecemgo/octoberfest-landing-page/assets/13468728/158a6f6c-27d2-4b35-94fd-1a8247967236](https://github.com/ecemgo/octoberfest-landing-page/assets/13468728/3f6e5c7e-ca14-4fd3-9f83-8e19f6c5ffc6)
+https://github.com/ecemgo/octoberfest-landing-page/assets/13468728/4fe0ae00-70d6-4ee6-8e8a-4f81ed12c8b9
 
 ### Contact Me
 
